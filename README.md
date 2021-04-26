@@ -1,7 +1,5 @@
 # Covid-19 - Flutter UI
 
-**Packages we are using:**
-
 **Fonts**
 
 - Poppins [link](https://fonts.google.com/specimen/Poppins)
