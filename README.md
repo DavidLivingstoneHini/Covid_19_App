@@ -1,5 +1,7 @@
 # Covid-19 - Flutter UI
 
+## A Covid-19 App prototype that displays active cases in a locality 
+
 **Fonts**
 
 - Poppins [link](https://fonts.google.com/specimen/Poppins)
