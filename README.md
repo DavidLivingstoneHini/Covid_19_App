@@ -1,6 +1,6 @@
 # Covid-19 - Flutter UI
 
-## A Covid-19 App prototype that uses A.I to display and regularly update active cases worldwide and in a locality, it also provides a knowledge panel on the symptoms and prevention of the virus.
+* A Covid-19 App prototype that uses A.I to display and regularly update active cases worldwide and in a locality, it also provides a knowledge panel on the symptoms and prevention of the virus. *
 
 **Fonts**
 
